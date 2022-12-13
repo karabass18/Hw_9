@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="630d19fe-b20b-4a1d-b019-50cc327e51a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/karabass18/LambdaTest.java" afterDir="false" />
+    <list default="true" id="630d19fe-b20b-4a1d-b019-50cc327e51a2" name="Changes" comment="Added LambdaTest">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/karabass18/StepsForStepsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/karabass18/StepsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/karabass18/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/karabass18/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/karabass18/NormalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/karabass18/NormalTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +115,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670864169324</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added LambdaTest">
+      <created>1670928088582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670928088582</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,5 +135,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added LambdaTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added LambdaTest" />
   </component>
 </project>
